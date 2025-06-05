@@ -1,19 +1,19 @@
 module.exports = {
   "apps": [
     {
-      "name": "hello",
+      "name": "Revise Well Next App",
       "script": "/root/.nvm/versions/node/v22.0.0/bin/npm",
       "args": [
         "start"
       ],
-      "cwd": "/root/revisewell-landing",
+      "cwd": "/root/ReviseWell",
       "env": {
         "SHELL": "/bin/bash",
         "NVM_INC": "/root/.nvm/versions/node/v22.0.0/include/node",
         "LC_ADDRESS": "en_US.UTF-8",
         "LC_NAME": "en_US.UTF-8",
         "LC_MONETARY": "en_US.UTF-8",
-        "PWD": "/root/revisewell-landing",
+        "PWD": "/root/ReviseWell",
         "LOGNAME": "root",
         "XDG_SESSION_TYPE": "tty",
         "MOTD_SHOWN": "pam",
@@ -95,7 +95,6 @@ module.exports = {
         "SSH_TTY": "/dev/pts/0",
         "LC_NUMERIC": "en_US.UTF-8",
         "_": "/root/.nvm/versions/node/v22.0.0/bin/pm2",
-        "OLDPWD": "/root/revisewell-landing",
         "PM2_USAGE": "CLI",
         "PM2_HOME": "/root/.pm2",
         "back-end": {},
