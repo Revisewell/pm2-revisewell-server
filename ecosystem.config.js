@@ -8,6 +8,7 @@ module.exports = {
       ],
       "cwd": "/root/ReviseWell",
       "env": {
+        "NODE_ENV": "production",
         "SHELL": "/bin/bash",
         "NVM_INC": "/root/.nvm/versions/node/v22.0.0/include/node",
         "LC_ADDRESS": "en_US.UTF-8",
