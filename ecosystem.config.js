@@ -52,19 +52,19 @@ module.exports = {
       }
     },
     {
-      "name": "back-end",
+      "name": "ReviseWell Nest Backend Server",
       "script": "/root/.nvm/versions/node/v22.0.0/bin/npm",
       "args": [
         "start"
       ],
-      "cwd": "/root/revisewell-server",
+      "cwd": "/root/web_API_edu",
       "env": {
         "SHELL": "/bin/bash",
         "NVM_INC": "/root/.nvm/versions/node/v22.0.0/include/node",
         "LC_ADDRESS": "en_US.UTF-8",
         "LC_NAME": "en_US.UTF-8",
         "LC_MONETARY": "en_US.UTF-8",
-        "PWD": "/root/revisewell-server",
+        "PWD": "/root/web_API_edu",
         "LOGNAME": "root",
         "XDG_SESSION_TYPE": "tty",
         "MOTD_SHOWN": "pam",
